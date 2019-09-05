@@ -4,6 +4,10 @@
 	<title>test app 1 XD</title>
 </head>
 <body>
-helloworld
+
+<?php
+echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
+?>
+
 </body>
 </html>
