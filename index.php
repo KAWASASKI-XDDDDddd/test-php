@@ -29,11 +29,11 @@ function sendMessage($chatID, $messaggio, $token) {
     return $result;
 }
 
-$token1 = "<917249100:AAHZRB4R2TAr_hP00ZEtBtEF5zFNaV0ipUM>";
-$chatid1 = "<-344984371>";
+$token1 = "917249100:AAHZRB4R2TAr_hP00ZEtBtEF5zFNaV0ipUM";
+$chatid1 = "-344984371";
 sendMessage($chatid1, $mas3, $token1);
 
-
+echo $url
 ?>
 
 </body>
