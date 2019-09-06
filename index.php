@@ -12,7 +12,7 @@
 
 $mas3 = htmlspecialchars($_GET["name"]);
 echo $mas3;
-/**
+
 function sendMessage($chatID, $messaggio, $token) {
     echo "sending message to " . $chatID . "\n";
 
@@ -31,8 +31,7 @@ function sendMessage($chatID, $messaggio, $token) {
 
 $token = "<917249100:AAHZRB4R2TAr_hP00ZEtBtEF5zFNaV0ipUM>";
 $chatid = "<-344984371>";
-sendMessage($chatid, $me1, $token);
-**/
+sendMessage($chatid, $mas3, $token);
 
 
 ?>
