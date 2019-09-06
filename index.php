@@ -29,9 +29,9 @@ function sendMessage($chatID, $messaggio, $token) {
     return $result;
 }
 
-$token = "<917249100:AAHZRB4R2TAr_hP00ZEtBtEF5zFNaV0ipUM>";
-$chatid = "<-344984371>";
-sendMessage($chatid, $mas3, $token);
+$token1 = "<917249100:AAHZRB4R2TAr_hP00ZEtBtEF5zFNaV0ipUM>";
+$chatid1 = "<-344984371>";
+sendMessage($chatid1, $mas3, $token1);
 
 
 ?>
