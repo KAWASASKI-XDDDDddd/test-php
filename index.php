@@ -30,7 +30,7 @@ function sendMessage($chatID, $messaggio, $token) {
 }
 
 $token1 = "720798548:AAEtmPjFLXGhFBvg-eP10SmFCH0s7h3XWGs";
-$chatid1 = "-973125386";
+$chatid1 = "-274836050";
 sendMessage($chatid1, $mas3, $token1);
 
 echo $url
